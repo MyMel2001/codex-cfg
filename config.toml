@@ -4,4 +4,3 @@ model_provider = "proxy"
 [model_providers.proxy]
 name = "AIProxi"
 base_url = "http://100.118.11.83/v1"
-env_key = "x"
